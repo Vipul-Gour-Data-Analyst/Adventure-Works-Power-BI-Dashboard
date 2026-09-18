@@ -149,7 +149,8 @@ Customer ───── Sales ───── Product
 
 The model was designed to support interactive filtering and analysis across different business dimensions.
 
-<img width="1751" height="747" alt="AdventureWorks Schema" src="https://github.com/user-attachments/assets/024f9f4e-500c-4120-b363-8e4ecaad470d" />
+<img width="1320" height="747" alt="AdventureWorks Schema" src="https://github.com/user-attachments/assets/9cb0d03e-ae07-41f2-a503-f3c756ffa2b8" />
+
 
 ---
 
@@ -209,8 +210,7 @@ Provides a high-level overview of business performance.
 
 ### Dashboard View
 
-<img width="1306" height="752" alt="AdventureWorks Executive View" src="https://github.com/user-attachments/assets/5f6d73eb-624d-4408-a075-ccaf38229c97" />
-
+<img width="1306" height="750" alt="AdventureWorks Executive View" src="https://github.com/user-attachments/assets/75f69a3b-0086-45fd-9944-543adfc24a52" />
 
 ---
 
@@ -227,7 +227,8 @@ This page evaluates product-level performance.
 - Product contribution
 - Return performance
 
-<img width="1308" height="750" alt="AdventureWorks Product View" src="https://github.com/user-attachments/assets/4b94a9d7-c24a-4d43-a523-eb74a8c6ca82" />
+<img width="1308" height="750" alt="AdventureWorks Product View" src="https://github.com/user-attachments/assets/96f8cebc-3480-4761-a859-14c33af9ad85" />
+
 
 
 ---
@@ -244,7 +245,8 @@ This page focuses on customer and sales behavior.
 - Customer segmentation
 - Regional customer performance
 
-<img width="1316" height="750" alt="AdventureWorks Customer View" src="https://github.com/user-attachments/assets/60adda65-6a06-4c7b-9c4c-b6ac8f9cc796" />
+<img width="1316" height="750" alt="AdventureWorks Customer View" src="https://github.com/user-attachments/assets/96033a69-2bd2-46c1-8d46-e9695380685a" />
+
 
 
 ---
@@ -285,17 +287,17 @@ Based on the analysis, stakeholders can use the dashboard to:
 
 ### Executive Summary
 
-<img width="1306" height="752" alt="AdventureWorks Executive View" src="https://github.com/user-attachments/assets/7cad9761-bbe7-44df-9c96-fbbcc386b753" />
+<img width="1306" height="750" alt="AdventureWorks Executive View" src="https://github.com/user-attachments/assets/75f69a3b-0086-45fd-9944-543adfc24a52" />
 
 
 ### Product Analysis
 
-<img width="1308" height="750" alt="AdventureWorks Product View" src="https://github.com/user-attachments/assets/5006ebfd-08fe-4dac-a7db-c4995cbb7338" />
+<img width="1308" height="750" alt="AdventureWorks Product View" src="https://github.com/user-attachments/assets/96f8cebc-3480-4761-a859-14c33af9ad85" />
 
 
 ### Customer Analysis
 
-<img width="1316" height="750" alt="AdventureWorks Customer View" src="https://github.com/user-attachments/assets/ddd20eb3-4214-40ca-b4a2-7fc4fce4bbcc" />
+<img width="1316" height="750" alt="AdventureWorks Customer View" src="https://github.com/user-attachments/assets/96033a69-2bd2-46c1-8d46-e9695380685a" />
 
 
 ---
